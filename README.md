@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 programmer, student
 -------------------
+I am a third-year student from the Department of Computational Mathematics of the Faculty of Mechanics and Mathematics, I love mathematics and its various applications
 
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [semyondbkv@gmail.com](mailto:semyondbkv@gmail.com)
